@@ -1,0 +1,2 @@
+# xeri
+Greek card game
